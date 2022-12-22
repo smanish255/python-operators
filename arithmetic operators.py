@@ -1,0 +1,18 @@
+a=int(input("enter an a number: "))
+b=int(input("enter an b number: "))
+print("*"*100)
+print("sum of {}+{}={}".format(a,b,a+b))
+print("*"*100)
+print("substraction of {}-{}={}".format(a,b,a-b))
+print("*"*100)
+print("multiplication of {}*{}={}".format(a,b,a*b))
+print("*"*100)
+print("division of {}/{}={}".format(a,b,a/b))
+print("*"*100)
+print("floor division of {}//{}={}".format(a,b,a//b))
+print("*"*100)
+print("modular division or remendor of {}%{}={}".format(a,b,a%b))
+print("*"*100)
+print("exponentation of {}*{}={}".format(a,b,a*b))
+
+            
